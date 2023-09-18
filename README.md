@@ -7,3 +7,7 @@ this repo is a clone of https://github.com/miguelgrinberg/flasky
 # Activity 1 - Install Flask
 
 ![Activity 1](images/Activity_1_Proof_of_Installation.png)
+
+# Activity 2 - Install Flask
+
+![Activity 21](images/Activity2-1.png)
