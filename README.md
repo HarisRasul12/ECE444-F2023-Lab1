@@ -17,3 +17,10 @@ this repo is a clone of https://github.com/miguelgrinberg/flasky
 # Activity 3 - Example in Section 3
 
 ![Activity 3](images/Activity3.png)
+
+# Activity 4 - Example in Section 4
+
+![Activity 4](images/Activity4-12.png)
+
+![Activity 4](images/Activity4-3.png)
+
