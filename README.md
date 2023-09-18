@@ -11,3 +11,5 @@ this repo is a clone of https://github.com/miguelgrinberg/flasky
 # Activity 2 - Examples in section 2
 
 ![Activity 21](images/Activity2-1.png)
+
+![Activity 2](images/Activity2-2.png)
