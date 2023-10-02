@@ -11,3 +11,8 @@ this repo is a clone of https://github.com/miguelgrinberg/flasky
 
 # Activity 3 - Get things ready locally
 ![Activity 3](Lab3_Activity3.png)
+
+# Activity 4 Docker Image
+![Activity 4](Lab3_Activity41.png)
+![Activity 4](Lab3_Activity42.png)
+![Activity 4](Lab3_Activity43.png)
