@@ -8,3 +8,6 @@ this repo is a clone of https://github.com/miguelgrinberg/flasky
 
 # Activity 2 - Docker Installation
 ![Activity 2](Lab3_Activity2.png)
+
+# Activity 3 - Get things ready locally
+![Activity 3](Lab3_Activity3.png)
